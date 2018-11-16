@@ -1,0 +1,12 @@
+.classe{
+    width: 40%;
+    height: 5%
+}
+.paragraphe{
+    width: 40%;
+}
+.texte{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
