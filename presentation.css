@@ -29,3 +29,9 @@
     display: flex;
     flex-wrap: wrap;
 }
+.imgdrone {
+    width: 30%;
+    margin-right: 10% ;
+    margin-left: 10%;
+
+}
